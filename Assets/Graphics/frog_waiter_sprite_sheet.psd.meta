@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 075cb6beb3ffa74418001a478623a652
+timeCreated: 1443153615
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: frog_waiter_sprite_sheet_0
+    21300002: frog_waiter_sprite_sheet_1
+    21300004: frog_waiter_sprite_sheet_2
+    21300006: frog_waiter_sprite_sheet_7
+    21300008: frog_waiter_sprite_sheet_8
+    21300010: frog_waiter_sprite_sheet_9
+    21300012: frog_waiter_sprite_sheet_10
+    21300014: frog_waiter_sprite_sheet_11
+    21300016: frog_waiter_sprite_sheet_16
+    21300018: frog_waiter_sprite_sheet_17
+    21300020: frog_waiter_sprite_sheet_18
+    21300022: frog_waiter_sprite_sheet_19
+    21300024: frog_waiter_sprite_sheet_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 640
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: frog_waiter_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 954
+        width: 270
+        height: 294
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog_waiter_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 954
+        width: 270
+        height: 301
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog_waiter_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 947
+        width: 270
+        height: 311
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog_waiter_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 601
+        width: 269
+        height: 295
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog_waiter_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 595
+        width: 269
+        height: 301
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog_waiter_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 589
+        width: 270
+        height: 295
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog_waiter_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 583
+        width: 269
+        height: 301
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog_waiter_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 583
+        width: 269
+        height: 294
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog_waiter_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 201
+        width: 270
+        height: 311
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog_waiter_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 207
+        width: 270
+        height: 299
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog_waiter_sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 275
+        width: 97
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog_waiter_sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 198
+        width: 282
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog_waiter_sprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 179
+        width: 135
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
