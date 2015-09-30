@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class checkGround : MonoBehaviour {
+public class CheckGround : MonoBehaviour {
 
 	private PlayerMove player;
 
