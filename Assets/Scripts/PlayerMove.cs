@@ -54,8 +54,6 @@ public class PlayerMove : MonoBehaviour
 
 			MoveVelocity = 1;
 
-	
-
 
 		}
 
