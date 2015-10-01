@@ -6,7 +6,7 @@
   * To download without using GitHub, click the **Download ZIP** button
   * Using GitHub, you can fork the project to your account, and then click **Clone in Desktop**
 2. Open Unity
-3. When it prompts you to open a project folder select "UnityGameJam2015" or hit File > Open Project 
+3. When it prompts you to open a project folder select **UnityGameJam2015** or hit **File > Open Project**
 in the menu and open the folder
 4. Then once the project is open, open the first scene by hitting **File > Open Scene > Scenes > frog_waiter_1.unity**
 5. The scene should open up!
