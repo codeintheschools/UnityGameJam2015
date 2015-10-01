@@ -2,7 +2,9 @@
 
 ## To Open this Project in Unity
 
-1. Download the "UnityGameJam2015" folder to your harddrive.
+1. Download the project:
+  * To download without using GitHub, click the **Download ZIP** button
+  * Using GitHub, you can fork the project to your account, and then click **Clone in Desktop**
 2. Open Unity
 3. When it prompts you to open a project folder select "UnityGameJam2015" or hit File > Open Project 
 in the menu and open the folder
